@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     @IBOutlet var hour2Label: UILabel!
     @IBOutlet var hour1Label: UILabel!
     @IBOutlet var minute2Label: UILabel!
